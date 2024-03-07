@@ -1,16 +1,8 @@
-# e_commerce
+# DivineStyle
 
-A new Flutter project.
+An all-inclusive women’s fashion app offering a curated selection of handbags, jewellery,
+footwear, and dresses, meticulously designed to cater to diverse tastes and preferences.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With intuitive navigation and user-friendly interface, effortlessly explore and discover the latest
+trends, exclusive collections, and irresistible deals, ensuring a delightful shopping experience at
+your fingertips.
